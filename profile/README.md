@@ -1,3 +1,3 @@
 ## .github
 
-In die Sonne
+In die Sonne schauen
